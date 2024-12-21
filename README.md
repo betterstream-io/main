@@ -1,4 +1,4 @@
-# <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%236200ea' rx='6'/><path d='M15 8 L15 24 L27 16 Z' fill='white'/><path d='M5 12 Q10 16 5 20' stroke='white' stroke-width='2' fill='none'/><path d='M8 10 Q13 16 8 22' stroke='white' stroke-width='2' fill='none'/></svg>" width="28" height="28" style="vertical-align: middle; margin-right: 10px"> BetterStream
+# <img src="img/betterstream-icon.png" width="48" height="48" alt="BetterStream Icon" style="vertical-align: middle"> BetterStream
 
 <div align="center">
 
