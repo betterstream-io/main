@@ -4,8 +4,9 @@
 
 ![BetterStream Hero](img/hero-msg.png)
 
-[![Discord](https://img.shields.io/discord/1318984381251059734?color=%235865F2&label=Discord&logo=discord&logoColor=white)](https://discord.betterstream.io/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fbetterstream.io&up_message=online&down_message=offline&label=Website&color=%236200ea)](https://betterstream.io)
+[![Discord](https://img.shields.io/discord/1318984381251059734?color=%235865F2&label=Discord&logo=discord&logoColor=white)](https://discord.betterstream.io/)
+[![X (Twitter)](https://img.shields.io/badge/Follow-black?logo=x&style=flat)](https://x.com/betterstream_io)
 ![OBS Compatible](https://img.shields.io/badge/OBS-compatible-green?logo=obs-studio)
 ![Streamlabs Compatible](https://img.shields.io/badge/Streamlabs-compatible-green?logo=obs)
 
@@ -20,8 +21,8 @@ BetterStream is a free cloud-based service that simplifies multi-platform stream
 
 ## ✨ Core Features
 
-- **Multi-Stream Magic**: Stream simultaneously to 4+ platforms with a single key
-- **Platform Support**: Twitch, YouTube, Aparat, Kick, Rumble
+- **Multi-Stream Magic**: Stream simultaneously to 5+ platforms with a single key
+- **Platform Support**: Twitch, YouTube, Aparat, Kick, Rumble, Instagram
 - **Completely Free**: No credit card required
 - **No Watermark**: Pure, unaltered streams without any additional branding
 - **Full Control**: Easily manage, modify, or delete your stream keys anytime
